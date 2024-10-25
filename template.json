@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "LogicAppName": {
-            "defaultValue": "LAEmergencyRevokeAccess",
+            "defaultValue": "LAEmergencyRevokeAccessTest",
             "type": "String"
         },
         "connections_sharepointonline": {
